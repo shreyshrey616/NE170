@@ -3,13 +3,21 @@
 \contentsline {section}{\numberline {3}Roles}{2}{section.3}
 \contentsline {section}{\numberline {4}Timeline}{3}{section.4}
 \contentsline {section}{\numberline {5}Critical Equipment}{4}{section.5}
-\contentsline {section}{\numberline {6}Initial Research}{4}{section.6}
-\contentsline {subsection}{\numberline {6.1}Spectra Analysis}{4}{subsection.6.1}
-\contentsline {subsection}{\numberline {6.2}Detector Efficiency Curve}{5}{subsection.6.2}
-\contentsline {section}{\numberline {7}Data Analysis and Results}{6}{section.7}
-\contentsline {subsection}{\numberline {7.1}Concentration Calculation}{6}{subsection.7.1}
-\contentsline {section}{\numberline {8}Conclusion}{8}{section.8}
-\contentsline {subsection}{\numberline {8.1}Isotope Identification}{8}{subsection.8.1}
-\contentsline {section}{\numberline {9}Future Work}{8}{section.9}
-\contentsline {section}{\numberline {10}Next Steps}{8}{section.10}
-\contentsline {section}{\numberline {11}Acknowledgements}{8}{section.11}
+\contentsline {section}{\numberline {6}Irradiation Procedure}{4}{section.6}
+\contentsline {subsection}{\numberline {6.1}Long Run Procedure}{4}{subsection.6.1}
+\contentsline {subsection}{\numberline {6.2}Short Run Procedure}{4}{subsection.6.2}
+\contentsline {section}{\numberline {7}Initial Research}{4}{section.7}
+\contentsline {subsection}{\numberline {7.1}Spectra Analysis}{4}{subsection.7.1}
+\contentsline {subsection}{\numberline {7.2}Detector Efficiency Curve}{5}{subsection.7.2}
+\contentsline {section}{\numberline {8}Data Analysis and Results}{6}{section.8}
+\contentsline {subsection}{\numberline {8.1}Concentration Calculation}{6}{subsection.8.1}
+\contentsline {subsection}{\numberline {8.2}Kelp Sample Long Run Results}{8}{subsection.8.2}
+\contentsline {subsection}{\numberline {8.3}Kelp Sample Short Run Results}{8}{subsection.8.3}
+\contentsline {subsection}{\numberline {8.4}Fish Long Run Results}{8}{subsection.8.4}
+\contentsline {subsection}{\numberline {8.5}Seaweed Long Run Results}{8}{subsection.8.5}
+\contentsline {subsection}{\numberline {8.6}Seashell Long Run Results}{8}{subsection.8.6}
+\contentsline {section}{\numberline {9}Conclusion}{8}{section.9}
+\contentsline {subsection}{\numberline {9.1}Isotope Identification}{8}{subsection.9.1}
+\contentsline {section}{\numberline {10}Future Work}{8}{section.10}
+\contentsline {section}{\numberline {11}Next Steps}{8}{section.11}
+\contentsline {section}{\numberline {12}Acknowledgements}{9}{section.12}
