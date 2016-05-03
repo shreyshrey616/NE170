@@ -3,21 +3,24 @@
 \contentsline {section}{\numberline {3}Roles}{2}{section.3}
 \contentsline {section}{\numberline {4}Timeline}{3}{section.4}
 \contentsline {section}{\numberline {5}Critical Equipment}{4}{section.5}
-\contentsline {section}{\numberline {6}Irradiation Procedure}{4}{section.6}
-\contentsline {subsection}{\numberline {6.1}Long Run Procedure}{4}{subsection.6.1}
-\contentsline {section}{\numberline {7}Initial Research}{4}{section.7}
-\contentsline {subsection}{\numberline {7.1}Spectra Analysis}{4}{subsection.7.1}
-\contentsline {subsection}{\numberline {7.2}Short Run Procedure}{4}{subsection.7.2}
-\contentsline {subsection}{\numberline {7.3}Detector Efficiency Curve}{6}{subsection.7.3}
+\contentsline {subsection}{\numberline {5.1}Detector Efficiency Curve}{4}{subsection.5.1}
+\contentsline {section}{\numberline {6}Irradiation Procedure}{5}{section.6}
+\contentsline {subsection}{\numberline {6.1}Sample Preparation}{5}{subsection.6.1}
+\contentsline {subsection}{\numberline {6.2}Long Run Procedure}{5}{subsection.6.2}
+\contentsline {subsection}{\numberline {6.3}Short Run Procedure}{6}{subsection.6.3}
+\contentsline {section}{\numberline {7}Spectra Analysis}{6}{section.7}
+\contentsline {subsection}{\numberline {7.1}Kelp Long Run Spectra}{6}{subsection.7.1}
+\contentsline {subsection}{\numberline {7.2}Kelp Short Run Spectra}{6}{subsection.7.2}
+\contentsline {subsection}{\numberline {7.3}Fish Long Run Spectra}{6}{subsection.7.3}
+\contentsline {subsection}{\numberline {7.4}Seaweed Long Run Spectra}{6}{subsection.7.4}
+\contentsline {subsection}{\numberline {7.5}Seashell Long Run Spectra}{6}{subsection.7.5}
 \contentsline {section}{\numberline {8}Data Analysis and Results}{7}{section.8}
 \contentsline {subsection}{\numberline {8.1}Concentration Calculation}{7}{subsection.8.1}
 \contentsline {subsection}{\numberline {8.2}Kelp Sample Long Run Results}{9}{subsection.8.2}
-\contentsline {subsection}{\numberline {8.3}Kelp Sample Short Run Results}{9}{subsection.8.3}
-\contentsline {subsection}{\numberline {8.4}Fish Long Run Results}{9}{subsection.8.4}
-\contentsline {subsection}{\numberline {8.5}Seaweed Long Run Results}{9}{subsection.8.5}
-\contentsline {subsection}{\numberline {8.6}Seashell Long Run Results}{9}{subsection.8.6}
-\contentsline {section}{\numberline {9}Conclusion}{9}{section.9}
-\contentsline {subsection}{\numberline {9.1}Isotope Identification}{9}{subsection.9.1}
-\contentsline {section}{\numberline {10}Future Work}{9}{section.10}
-\contentsline {section}{\numberline {11}Next Steps}{9}{section.11}
-\contentsline {section}{\numberline {12}Acknowledgements}{9}{section.12}
+\contentsline {subsection}{\numberline {8.3}Kelp Sample Short Run Results}{10}{subsection.8.3}
+\contentsline {subsection}{\numberline {8.4}Fish Long Run Results}{10}{subsection.8.4}
+\contentsline {subsection}{\numberline {8.5}Seaweed Long Run Results}{10}{subsection.8.5}
+\contentsline {subsection}{\numberline {8.6}Seashell Long Run Results}{10}{subsection.8.6}
+\contentsline {section}{\numberline {9}Conclusion}{10}{section.9}
+\contentsline {section}{\numberline {10}Future Work}{10}{section.10}
+\contentsline {section}{\numberline {11}Acknowledgements}{11}{section.11}
