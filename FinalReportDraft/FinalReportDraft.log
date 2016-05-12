@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-2.4-1.40.13 (TeX Live 2012) (format=pdflatex 2012.6.30)  10 MAY 2016 16:00
+This is pdfTeX, Version 3.1415926-2.4-1.40.13 (TeX Live 2012) (format=pdflatex 2012.6.30)  12 MAY 2016 15:22
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -417,7 +417,7 @@ been already used, duplicate ignored
 <to be read again> 
                    \relax 
 l.54 
-      [1]
+      [1] [2]
 LaTeX Font Info:    Try loading font information for OMS+cmr on input line 74.
  (/usr/local/texlive/2012/texmf-dist/tex/latex/base/omscmr.fd
 File: omscmr.fd 1999/05/25 v2.5h Standard LaTeX font definitions
@@ -425,77 +425,106 @@ File: omscmr.fd 1999/05/25 v2.5h Standard LaTeX font definitions
 LaTeX Font Info:    Font shape `OMS/cmr/m/n' in size <10> not available
 (Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 74.
 
-[2] <GanttChart.png, id=152, 998.73125pt x 599.23875pt>
+[3] [4] <GanttChart.png, id=160, 998.73125pt x 599.23875pt>
 File: GanttChart.png Graphic file (type png)
- <use GanttChart.png>
-Package pdftex.def Info: GanttChart.png used on input line 126.
+
+<use GanttChart.png>
+Package pdftex.def Info: GanttChart.png used on input line 128.
 (pdftex.def)             Requested size: 399.48541pt x 239.69125pt.
-
-
-LaTeX Warning: `h' float specifier changed to `ht'.
-
-[3] <Efficiency.png, id=158, 579.16376pt x 333.245pt>
+ [5 <./GanttChart.png>]
+<Efficiency.png, id=169, 579.16376pt x 333.245pt>
 File: Efficiency.png Graphic file (type png)
  <use Efficiency.png>
-Package pdftex.def Info: Efficiency.png used on input line 154.
+Package pdftex.def Info: Efficiency.png used on input line 156.
 (pdftex.def)             Requested size: 347.50093pt x 199.94853pt.
+ [6 <./Efficiency.png>] <Reactor.jpg, id=178, 577.40718pt x 481.8pt>
+File: Reactor.jpg Graphic file (type jpg)
+ <use Reactor.jpg>
+Package pdftex.def Info: Reactor.jpg used on input line 198.
+(pdftex.def)             Requested size: 288.70288pt x 240.8994pt.
 
-
-LaTeX Warning: `h' float specifier changed to `ht'.
-
-[4 <./GanttChart.png>] [5 <./Efficiency.png>]
-<ExampleSpectra.png, id=173, 612.2875pt x 452.69125pt>
+[7] <ExampleSpectra.png, id=183, 612.2875pt x 452.69125pt>
 File: ExampleSpectra.png Graphic file (type png)
 
 <use ExampleSpectra.png>
-Package pdftex.def Info: ExampleSpectra.png used on input line 200.
+Package pdftex.def Info: ExampleSpectra.png used on input line 211.
 (pdftex.def)             Requested size: 306.143pt x 226.34506pt.
- <SampleB.jpg, id=174, 1656.1875pt x 1279.78125pt>
+ [8 <./Reactor.jpg>]
+<SampleB.jpg, id=189, 1656.1875pt x 1279.78125pt>
 File: SampleB.jpg Graphic file (type jpg)
+ <use SampleB.jpg>
+Package pdftex.def Info: SampleB.jpg used on input line 219.
+(pdftex.def)             Requested size: 298.10089pt x 230.35068pt.
+ [9 <./ExampleSpectra.png> <./SampleB.jpg>]
+<FishSpectra.png, id=197, 520.94624pt x 351.3125pt>
+File: FishSpectra.png Graphic file (type png)
+ <use FishSpectra.png>
+Package pdftex.def Info: FishSpectra.png used on input line 229.
+(pdftex.def)             Requested size: 364.65988pt x 245.91707pt.
 
-<use SampleB.jpg>
-Package pdftex.def Info: SampleB.jpg used on input line 207.
-(pdftex.def)             Requested size: 331.23163pt x 255.95172pt.
+<SeaweedSpectra.png, id=198, 508.90125pt x 276.03125pt>
+File: SeaweedSpectra.png Graphic file (type png)
 
+<use SeaweedSpectra.png>
+Package pdftex.def Info: SeaweedSpectra.png used on input line 240.
+(pdftex.def)             Requested size: 407.12155pt x 220.82529pt.
+ [10 <./FishSpectra.png> <./SeaweedSpectra.png>]
+<SeashellSpectra.png, id=207, 509.905pt x 263.98625pt>
+File: SeashellSpectra.png Graphic file (type png)
 
-LaTeX Warning: `h' float specifier changed to `ht'.
-
-[6 <./ExampleSpectra.png>] <Eq3.png, id=182, 701.62125pt x 90.3375pt>
+<use SeashellSpectra.png>
+Package pdftex.def Info: SeashellSpectra.png used on input line 250.
+(pdftex.def)             Requested size: 407.92455pt x 211.18927pt.
+ [11 <./SeashellSpectra.png>]
+<Eq3.png, id=214, 701.62125pt x 90.3375pt>
 File: Eq3.png Graphic file (type png)
-
-<use Eq3.png>
-Package pdftex.def Info: Eq3.png used on input line 223.
+ <use Eq3.png>
+Package pdftex.def Info: Eq3.png used on input line 262.
 (pdftex.def)             Requested size: 350.80975pt x 45.16862pt.
- <stdpottery.jpg, id=183, 1032.85875pt x 1150.2975pt>
-File: stdpottery.jpg Graphic file (type jpg)
 
-<use stdpottery.jpg>
-Package pdftex.def Info: stdpottery.jpg used on input line 231.
+<stdpottery.jpg, id=215, 1032.85875pt x 1150.2975pt>
+File: stdpottery.jpg Graphic file (type jpg)
+ <use stdpottery.jpg>
+Package pdftex.def Info: stdpottery.jpg used on input line 270.
 (pdftex.def)             Requested size: 309.86002pt x 345.09192pt.
 
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
-[7 <./SampleB.jpg> <./Eq3.png>] [8 <./stdpottery.jpg>] [9]
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 300.
- [10]
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 300.
+[12 <./Eq3.png>]
 
-(./FinalReportDraft.aux)
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 300.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 300.
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+[13 <./stdpottery.jpg>] [14] [15]
+Missing character: There is no â in font cmr10!
+Missing character: There is no € in font cmr10!
+Missing character: There is no ™ in font cmr10!
+
+<ExampleChart.png, id=245, 1103.12125pt x 657.45625pt>
+File: ExampleChart.png Graphic file (type png)
+ <use ExampleChart.png>
+Package pdftex.def Info: ExampleChart.png used on input line 419.
+(pdftex.def)             Requested size: 441.24068pt x 262.97784pt.
+
+[16] [17 <./ExampleChart.png>]
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 436.
+ [18]
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 436.
+ (./FinalReportDraft.aux)
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 436.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 436.
 Package rerunfilecheck Info: File `FinalReportDraft.out' has not changed.
-(rerunfilecheck)             Checksum: 0A493387BCACC5314B2921138364C80D;1631.
-Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 300.
+(rerunfilecheck)             Checksum: 3DF62C3C11D0955F69F94D393350F949;1636.
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 436.
  ) 
 Here is how much of TeX's memory you used:
- 7190 strings out of 493488
- 108899 string characters out of 3141326
- 231348 words of memory out of 3000000
- 10376 multiletter control sequences out of 15000+200000
+ 7231 strings out of 493488
+ 109577 string characters out of 3141326
+ 233348 words of memory out of 3000000
+ 10396 multiletter control sequences out of 15000+200000
  7010 words of font info for 27 fonts, out of 3000000 for 9000
  957 hyphenation exceptions out of 8191
- 36i,10n,38p,2073b,381s stack positions out of 5000i,500n,10000p,200000b,50000s
+ 36i,10n,38p,2178b,381s stack positions out of 5000i,500n,10000p,200000b,50000s
 </usr/local/texlive/2012/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx10.pfb
 ></usr/local/texlive/2012/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb>
 </usr/local/texlive/2012/texmf-dist/fonts/type1/public/amsfonts/cm/cmcsc10.pfb>
@@ -507,10 +536,10 @@ local/texlive/2012/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></usr/lo
 cal/texlive/2012/texmf-dist/fonts/type1/public/amsfonts/cm/cmr7.pfb></usr/local
 /texlive/2012/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/local/
 texlive/2012/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy7.pfb>
-Output written on FinalReportDraft.pdf (11 pages, 1163614 bytes).
+Output written on FinalReportDraft.pdf (19 pages, 1585884 bytes).
 PDF statistics:
- 260 PDF objects out of 1000 (max. 8388607)
- 223 compressed objects within 3 object streams
- 45 named destinations out of 1000 (max. 500000)
- 239 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 314 PDF objects out of 1000 (max. 8388607)
+ 260 compressed objects within 3 object streams
+ 61 named destinations out of 1000 (max. 500000)
+ 264 words of extra memory for PDF output out of 10000 (max. 10000000)
 
